@@ -40,6 +40,7 @@ function renderSucursal(sucursal){
                              <td>${sucurs.empleados}</td>
                              </tr>`
     );
+    //..this line get the .innerHTML error when trying to load the data in 'fila-item': Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')
   document.getElementById('fila-item').innerHTML=html_.join("");
 }
     const subBtn = document.querySelector('#btn');
