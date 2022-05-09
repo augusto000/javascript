@@ -1,2 +1,2 @@
 # javascript
-Actualmente en desarrollo tarea de debuggeo. Task for debugging.
+Actualmente en desarrollo tarea de debuggeo. Task for debugging.(Fixed)
